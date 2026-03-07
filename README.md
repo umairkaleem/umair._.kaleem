@@ -37,14 +37,6 @@ I am building my path in Artificial Intelligence, moving from core programming t
 - 📈 **ML Modeling:** Implementation of regression and classification models on real-world datasets.
 - 📂 **Data Cleaning:** Transforming messy, uncleaned data into structured insights using Pandas.
 
----
-
-## 📈 My Activity 
-<p align="center">
-  <img src="https://archive.readme-widget.com/api/stats/umairkaleem?theme=tokyonight&hide_border=true" alt="GitHub Activity" />
-</p>
-
----
 
 ## 🌐 Connect With Me
 
