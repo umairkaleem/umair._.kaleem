@@ -47,14 +47,15 @@ I am building my path in Artificial Intelligence, moving from core programming t
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats
+
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=umairkaleem&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=umairkaleem&show_icons=true&theme=tokyonight&count_private=true&cache=123" alt="Umair's GitHub Stats" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umairkaleem&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umairkaleem&layout=compact&theme=tokyonight&cache=123" alt="Umair's Top Languages" />
 </p>
-
 ---
 
 ## 🔥 GitHub Streak
