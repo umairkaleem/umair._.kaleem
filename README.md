@@ -58,14 +58,6 @@ I am building my path in Artificial Intelligence, moving from core programming t
 </p>
 ---
 
-## 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com/?user=umairkaleem&theme=tokyonight"/>
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 <p align="left">
