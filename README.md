@@ -39,14 +39,9 @@ I am building my path in Artificial Intelligence, moving from core programming t
 
 ---
 
-## 📊 GitHub Stats
-
+## 📈 My Activity 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=umairkaleem&show_icons=true&theme=tokyonight&count_private=true" alt="Umair's GitHub Stats" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umairkaleem&layout=compact&theme=tokyonight" alt="Umair's Top Languages" />
+  <img src="https://archive.readme-widget.com/api/stats/umairkaleem?theme=tokyonight&hide_border=true" alt="GitHub Activity" />
 </p>
 
 ---
