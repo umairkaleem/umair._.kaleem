@@ -5,12 +5,13 @@ def problem_dfs():
     visited = set()
     stack = []
 
+    # start with both jugs empty
     stack.append((0,0))
     visited.add((0,0))
     i = 1
 
     while stack:
-        x, y = stack.pop()  
+        x, y = stack.pop()  # pop from stack instead of popleft
         print(f"Current state {i}: jug1: {x}, jug2: {y}")
         i += 1
 
@@ -18,11 +19,12 @@ def problem_dfs():
             print("Goal reached!")
             return True
 
+        # Possible actions
         actions = [
-            (jug1, y),  
-            (x, jug2),  
-            (0, y),     
-            (x, 0),     
+            (jug1, y),  # fill 4L
+            (x, jug2),  # fill 3L
+            (0, y),     # empty 4L
+            (x, 0),     # empty 3L
             (min(jug1, x + y), max(0, y - (jug1 - x))),  # pour 3L -> 4L
             (max(0, x - (jug2 - y)), min(jug2, x + y))   # pour 4L -> 3L
         ]

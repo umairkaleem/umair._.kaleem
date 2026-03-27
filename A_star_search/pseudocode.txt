@@ -1,0 +1,59 @@
+Pseudocode for A* Search Algorithm
+FUNCTION A_Star_Search(start, goal)
+
+    CREATE open_list ← {start}
+    CREATE g_cost[start] ← 0
+    CREATE parent[start] ← NULL
+    CREATE expansion_order ← empty list
+
+    WHILE open_list is not empty DO
+
+        current ← node in open_list with minimum (g_cost[node] + h[node])
+        ADD current to expansion_order
+
+        IF current = goal THEN
+            path ← empty list
+
+            WHILE current is not NULL DO
+                ADD current to path
+                current ← parent[current]
+            END WHILE
+
+            REVERSE path
+
+            PRINT "Order of Expansion:", expansion_order
+            PRINT "Optimal Path:", path
+            PRINT "Total Cost:", g_cost[goal]
+
+            RETURN
+        END IF
+
+        REMOVE current from open_list
+
+        FOR EACH neighbor of current DO
+            temp_g ← g_cost[current] + cost(current, neighbor)
+
+            IF neighbor not in g_cost OR temp_g < g_cost[neighbor] THEN
+                g_cost[neighbor] ← temp_g
+                parent[neighbor] ← current
+
+                IF neighbor not in open_list THEN
+                    ADD neighbor to open_list
+                END IF
+            END IF
+        END FOR
+
+    END WHILE
+
+    PRINT "No path found!"
+
+END FUNCTION
+Key Points
+
+g_cost[n] = actual cost from start node to node n
+
+h[n] = heuristic estimate from node n to goal
+
+f(n) = g(n) + h(n) is used to select the best node
+
+The algorithm always expands the node with the lowest f(n) value.
