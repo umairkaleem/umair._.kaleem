@@ -1,51 +1,66 @@
-<h1 align="center">Hi 👋, I'm Umair Kaleem</h1>
-<h3 align="center">🚀 AI Enthusiast | Python Developer | Data Scientist in Training</h3>
+<h1 align="center">Hi, I'm Umair Kaleem 👋</h1>
 
 <p align="center">
-I am building my path in Artificial Intelligence, moving from core programming to data-driven insights and intelligent systems.
+  🎓 Student &amp; Aspiring Developer &nbsp;|&nbsp; 🐍 Python Enthusiast &nbsp;|&nbsp; 🌱 Always Learning
 </p>
 
 ---
 
-## 👨‍💻 About My Python Journey
+## 👨‍💻 About Me
 
-- 🔭 I’m currently working on **Web Scraping & Data Analysis Projects**
-- 🌱 I’m currently learning **Machine Learning & Deep Learning Architectures**
-- 💬 Ask me about **Python, BeautifulSoup, Pandas, and Scikit-Learn**
-- ⚡ Fun fact: **I love solving real-world problems with code**
-
----
-
-## 🚀 Tech Stack
-
-### 🐍 Languages & Core
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Assembly](https://img.shields.io/badge/8086_Assembly-000000?style=for-the-badge&logo=assembly&logoColor=white)
-
-### 📊 Data Science & AI Libraries
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![BeautifulSoup](https://img.shields.io/badge/Web_Scraping-BeautifulSoup-green?style=for-the-badge)
+- 🎓 Currently a student, learning and building with **Python**
+- 🔭 Working on personal projects to sharpen my coding skills
+- 🌱 Exploring **programming fundamentals**, **data** and **automation**
+- 💡 Open to collaborating on beginner-friendly open source projects
+- 📫 Reach me at the links below
 
 ---
 
-## 📊 Project Highlights
+## 🛠️ Skills & Tools
 
-- 🕷️ **Web Scraping:** Automated data collection using BeautifulSoup (e.g., e-commerce menu scraping).
-- 📈 **ML Modeling:** Implementation of regression and classification models on real-world datasets.
-- 📂 **Data Cleaning:** Transforming messy, uncleaned data into structured insights using Pandas.
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+---
 
-## 🌐 Connect With Me
+## 📂 Projects
 
-<p align="left">
-<a href="https://github.com/umairkaleem" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"></a>
-<a href="https://www.linkedin.com/in/umair-kaleem-918386326/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://www.freelancer.com/u/Umair0006" target="_blank"><img src="https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=freelancer&logoColor=white"></a>
+| Project | Description | Tech |
+|--------|-------------|------|
+| 🔧 *Coming Soon* | Add your project name & short description here | Python |
+| 🔧 *Coming Soon* | Add your project name & short description here | Python |
+
+> 💬 *Replace the rows above with your actual projects from your repositories.*
+
+---
+
+## 🔗 Connect With Me
+
+<p>
+  <a href="https://github.com/umairkaleem">
+    <img src="https://img.shields.io/badge/GitHub-umairkaleem-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <!-- Add more social links below if you have them -->
+  <!-- 
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  -->
 </p>
 
 ---
 
-⭐ From [umairkaleem](https://github.com/umairkaleem)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=umairkaleem&show_icons=true&theme=tokyonight&hide_border=true" width="47%"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umairkaleem&layout=compact&theme=tokyonight&hide_border=true" width="47%"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=umairkaleem&color=blueviolet&style=flat-square" alt="Profile Views"/>
+</p>
