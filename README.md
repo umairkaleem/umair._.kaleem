@@ -1,38 +1,46 @@
 <h1 align="center">Hi, I'm Umair Kaleem 👋</h1>
 
 <p align="center">
-  🎓 Student &amp; Aspiring Developer &nbsp;|&nbsp; 🐍 Python Enthusiast &nbsp;|&nbsp; 🌱 Always Learning
+  Data Analyst | ML Enthusiast | BSAI Student
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 Currently a student, learning and building with **Python**
-- 🔭 Working on personal projects to sharpen my coding skills
-- 🌱 Exploring **programming fundamentals**, **data** and **automation**
-- 💡 Open to collaborating on beginner-friendly open source projects
+- 🎓 Currently a student, building real-world projects across multiple languages
+- 📊 Data Analyst with experience in data cleaning, preprocessing, and web scraping
+- 🐍 Skilled in **Python** (Pandas, NumPy), **SQL**, **Excel**, and data visualization using **Matplotlib** and **Seaborn**
+- 💡 Strong ability to turn raw data into actionable insights
+- 🔭 Working on web apps, games, and machine learning projects
 - 📫 Reach me at the links below
 
 ---
 
 ## 🛠️ Skills & Tools
 
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-## 📂 Projects
+## 📂 Featured Projects
 
-| Project | Description | Tech |
-|--------|-------------|------|
-| 🔧 *Coming Soon* | Add your project name & short description here | Python |
-| 🔧 *Coming Soon* | Add your project name & short description here | Python |
-
-> 💬 *Replace the rows above with your actual projects from your repositories.*
+| # | Project | Description | Tech |
+|---|---------|-------------|------|
+| 🤖 | [Instagram Impressions Model](https://github.com/umairkaleem/instagram_impressions_model) | ML model to predict Instagram post impressions | Python |
+| 🎮 | [Fighter Jet Shooting Game](https://github.com/umairkaleem/fighterJetShootingGame) | 2D shooting game with fighter jets | C++ |
+| 🛒 | [E-Commerce Webpage for Small Stores](https://github.com/umairkaleem/E-commerce-webpage-for-small-stores) | A simple e-commerce front-end for small businesses | CSS |
 
 ---
 
@@ -42,24 +50,13 @@
   <a href="https://github.com/umairkaleem">
     <img src="https://img.shields.io/badge/GitHub-umairkaleem-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <!-- Add more social links below if you have them -->
-  <!-- 
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/umair-kaleem-918386326/">
+    <img src="https://img.shields.io/badge/LinkedIn-Umair%20Kaleem-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  -->
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=umairkaleem&show_icons=true&theme=tokyonight&hide_border=true" width="47%"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umairkaleem&layout=compact&theme=tokyonight&hide_border=true" width="47%"/>
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=umairkaleem&color=blueviolet&style=flat-square" alt="Profile Views"/>
