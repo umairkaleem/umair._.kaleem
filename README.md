@@ -4,7 +4,6 @@
 <p align="center">
   Data Analyst | ML Enthusiast | BSAI Student
 </p>
-
 ---
 
 ## 👨‍💻 About Me
